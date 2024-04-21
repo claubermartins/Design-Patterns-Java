@@ -1,8 +1,8 @@
-package Test;
+package test;
 
-import Singleton.SingletonEager;
-import Singleton.SingletonLazy;
-import Singleton.SingletonLazyHolder;
+import singleton.SingletonEager;
+import singleton.SingletonLazy;
+import singleton.SingletonLazyHolder;
 
 public class SingletonTest {
     public static void main(String[] args) {
